@@ -13,7 +13,7 @@ class ListNode {
   }
 
 
-public class LeetCode21 {
+public class LeetCode21Easy {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         if(l1==null)
             return l2;
