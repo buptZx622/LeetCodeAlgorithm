@@ -6,13 +6,6 @@ package List;
  * @create: 2019-11-02 23:24
  **/
 
-class ListNode {
-      int val;
-      ListNode next;
-      ListNode(int x) { val = x; }
-  }
-
-
 public class LeetCode21Easy {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         if(l1==null)
