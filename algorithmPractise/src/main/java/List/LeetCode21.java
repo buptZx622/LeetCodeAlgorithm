@@ -19,8 +19,26 @@ public class LeetCode21 {
             return l2;
         if(l2==null)
             return l1;
-        ListNode res=l1.val>=l2.val?l2:l1;
-
-        return res;
+        ListNode res;
+        if(l1.val>=l2.val){
+            res=l2;
+            l2=l2.next;
+        }else{
+            res=l1;
+            l1=l1.next;
+        }
+        ListNode head=res;
+        while(l1!=null&&l2!=null){
+            if(l1.val>=l2.val){
+                res.next=l2;
+                l2=l2.next;
+            }else{
+                res.next=l1;
+                l1=l1.next;
+            }
+            res=res.next;
+        }
+        res.next=l1==null?l2:l1;
+        return head;
     }
 }
