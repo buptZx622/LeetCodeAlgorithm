@@ -1,7 +1,7 @@
 package List;
 /**
  * @program: LeetCodeAlgorithm
- * @description: leetCode 21题  https://leetcode-cn.com/problems/merge-two-sorted-lists/
+ * @description: leetCode 21题  合并有序链表  https://leetcode-cn.com/problems/merge-two-sorted-lists/
  * @author: ZhuangXu
  * @create: 2019-11-02 23:24
  **/
