@@ -1,4 +1,4 @@
-package Easy.List;
+package Medium.List;
 /**
  * @program: github
  * @description: 链表类
