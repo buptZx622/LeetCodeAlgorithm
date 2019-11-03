@@ -6,7 +6,7 @@ package Easy.List;
  * @create: 2019-11-02 23:24
  **/
 
-public class LeetCode21Easy {
+public class LeetCode21 {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         if(l1==null)
             return l2;

@@ -7,7 +7,7 @@ package Easy.List;
  **/
 
 
-public class LeetCode206Easy {
+public class LeetCode206 {
     public ListNode reverseList(ListNode head) {
         if(head==null)
             return head;
