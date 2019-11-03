@@ -1,4 +1,4 @@
-package List;
+package Easy.List;
 /**
  * @program: github
  * @description: 链表类

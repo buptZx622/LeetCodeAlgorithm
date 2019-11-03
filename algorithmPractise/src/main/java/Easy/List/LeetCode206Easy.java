@@ -1,4 +1,4 @@
-package List;
+package Easy.List;
 /**
  * @program: github
  * @description: LeetCode206 反转链表  https://leetcode-cn.com/problems/reverse-linked-list/submissions/

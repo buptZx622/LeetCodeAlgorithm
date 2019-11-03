@@ -1,4 +1,4 @@
-package List;
+package Easy.List;
 /**
  * @program: LeetCodeAlgorithm
  * @description: leetCode 21题  合并有序链表  https://leetcode-cn.com/problems/merge-two-sorted-lists/
