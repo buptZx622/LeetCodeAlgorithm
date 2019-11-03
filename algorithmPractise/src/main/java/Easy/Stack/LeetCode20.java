@@ -12,7 +12,7 @@ import java.util.Stack;
  **/
 
 
-public class LeetCode20Easy {
+public class LeetCode20 {
     static Map<Character,Character> map=new HashMap<>();
     static{
         map.put('(',')');
