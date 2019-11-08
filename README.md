@@ -5,7 +5,7 @@
 - from 2019-11-02
 - 力争每天刷题保持手感，根据时间富裕情况决定题目难度
 
-#完成题目
+# 完成题目
 | 题目名字 | 题目地址 | 题目难度 |
 | :----: | :----: | :----: |
 | 26.删除排序树组中的重复项 |https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/ | Easy |
