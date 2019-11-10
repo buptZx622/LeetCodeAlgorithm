@@ -1,10 +1,9 @@
-package Medium.Tree;
+package Easy.Tree;
 /**
  * @program: github
  * @description:
  * @author: ZhuangXu
- * @create: 2019-11-10 11:38
- * 树节点
+ * @create: 2019-11-10 13:02
  **/
 
 
