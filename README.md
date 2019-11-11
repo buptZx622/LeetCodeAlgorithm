@@ -23,3 +23,4 @@
 | 80.删除排序数组中的重复项II | https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii | Medium |
 | 513.找树左下角的值 | https://leetcode-cn.com/problems/find-bottom-left-tree-value/ | Medium |
 | 938.二叉搜索树的范围和 | https://leetcode-cn.com/problems/range-sum-of-bst/ | Easy |
+| 965.单值二叉树 | https://leetcode-cn.com/problems/univalued-binary-tree/ | Easy|
