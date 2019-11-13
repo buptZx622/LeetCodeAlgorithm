@@ -25,3 +25,4 @@
 | 938.二叉搜索树的范围和 | https://leetcode-cn.com/problems/range-sum-of-bst/ | Easy |
 | 965.单值二叉树 | https://leetcode-cn.com/problems/univalued-binary-tree/ | Easy|
 | 654.最大二叉树 | https://leetcode-cn.com/problems/maximum-binary-tree/ | Medium|
+| 303.区域和检索-数组不可变 | https://leetcode-cn.com/problems/range-sum-query-immutable/ | Easy |
