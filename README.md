@@ -15,7 +15,7 @@
 | 20.有效的括号 | https://leetcode-cn.com/problems/valid-parentheses/| Easy |
 | 232.堆实现队列 | https://leetcode-cn.com/problems/implement-queue-using-stacks/ | Easy |
 | 496.下一个更大元素 | https://leetcode-cn.com/problems/next-greater-element-i/ | Easy |
-| 541.反转字符串II | https://leetcode-cn.com/problems/reverse-string-ii/ | Easy |
+| 541.反转字符串II | https://leetcode-cn.com/problems/reverse-string-ii/ | Easy | 
 | 950.按递增顺序显示卡牌 | https://leetcode-cn.com/problems/reveal-cards-in-increasing-order/ | Medium |
 | 24.两两交换链表中的结点 | https://leetcode-cn.com/problems/swap-nodes-in-pairs/ | Medium |
 | 328.奇偶链表 | https://leetcode-cn.com/problems/odd-even-linked-list/ | Medium |
@@ -26,3 +26,4 @@
 | 965.单值二叉树 | https://leetcode-cn.com/problems/univalued-binary-tree/ | Easy|
 | 654.最大二叉树 | https://leetcode-cn.com/problems/maximum-binary-tree/ | Medium|
 | 303.区域和检索-数组不可变 | https://leetcode-cn.com/problems/range-sum-query-immutable/ | Easy |
+| 153. 寻找旋转排序数组中的最小值 | https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/ | Medium |
