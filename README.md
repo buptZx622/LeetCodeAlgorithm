@@ -28,3 +28,4 @@
 | 303.区域和检索-数组不可变 | https://leetcode-cn.com/problems/range-sum-query-immutable/ | Easy |
 | 153. 寻找旋转排序数组中的最小值 | https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/ | Medium |
 | 1122. 数组的相对排序 | https://leetcode-cn.com/problems/relative-sort-array/ | Easy |
+| 877.石子游戏 | https://leetcode-cn.com/problems/stone-game/ | Medium |
