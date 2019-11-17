@@ -30,3 +30,4 @@
 | 1122. 数组的相对排序 | https://leetcode-cn.com/problems/relative-sort-array/ | Easy |
 | 877.石子游戏 | https://leetcode-cn.com/problems/stone-game/ | Medium |
 | 1221. 分割平衡字符串 | https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/ | Easy |
+| 1003.检查替换后的词是否有效 | https://leetcode-cn.com/problems/check-if-word-is-valid-after-substitutions/ | Medium |
