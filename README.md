@@ -32,3 +32,4 @@
 | 1221. 分割平衡字符串 | https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/ | Easy |
 | 1003.检查替换后的词是否有效 | https://leetcode-cn.com/problems/check-if-word-is-valid-after-substitutions/ | Medium |
 | 147.对链表进行插入排序 | https://leetcode-cn.com/problems/insertion-sort-list/ | Medium |
+| 933.最近的请求次数 | https://leetcode-cn.com/problems/number-of-recent-calls/ | Easy |
