@@ -6,20 +6,23 @@ package main.java.Medium.List;
  */
 public class LeetCode147 {
     public ListNode insertionSortList(ListNode head) {
-        if(head==null||head.next==null)
+        if(head==null||head.next==null) {
             return head;
-        ListNode res=null;
-        ListNode
-        while(head!=null){
-            insertSort(head,head.next);
-
         }
-        return res;
+        ListNode newHead=null;
+        while(head!=null){
+            ListNode tmp=head.next;
+            head.next=null;
+            newHead=insertSort(newHead,head);
+            head=tmp;
+        }
+        return newHead;
     }
     public ListNode insertSort(ListNode head,ListNode newNode){
-        if(head==null)
+        if(head==null) {
             return newNode;
-        if(head.val>newNode.val){
+        }
+        if(head.val>=newNode.val){
             newNode.next=head;
             return newNode;
         }
