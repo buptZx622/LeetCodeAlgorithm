@@ -34,3 +34,4 @@
 | 147.对链表进行插入排序 | https://leetcode-cn.com/problems/insertion-sort-list/ | Medium |
 | 933.最近的请求次数 | https://leetcode-cn.com/problems/number-of-recent-calls/ | Easy |
 | 617.合并二叉树 | https://leetcode-cn.com/problems/merge-two-binary-trees/ | Easy |
+| 226.翻转二叉树 | https://leetcode-cn.com/problems/invert-binary-tree/ | Easy |
