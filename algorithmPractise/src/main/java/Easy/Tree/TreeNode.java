@@ -1,4 +1,4 @@
-package Easy.Tree;
+package main.java.Easy.Tree;
 /**
  * @program: github
  * @description:
