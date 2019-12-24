@@ -37,3 +37,4 @@
 | 226.翻转二叉树 | https://leetcode-cn.com/problems/invert-binary-tree/ | Easy |
 | 1014.最佳观光组合 | https://leetcode-cn.com/problems/best-sightseeing-pair/ | Medium |
 | 376.摆动序列 | https://leetcode-cn.com/problems/wiggle-subsequence/ | Medium |
+| 1200.最小绝对差 | https://leetcode-cn.com/problems/minimum-absolute-difference/ | Easy |
